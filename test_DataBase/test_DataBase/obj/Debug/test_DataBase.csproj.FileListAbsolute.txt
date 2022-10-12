@@ -1,0 +1,10 @@
+D:\Для работы\! Ярик\GitHub\test_DataBase\test_DataBase\bin\Debug\test_DataBase.exe.config
+D:\Для работы\! Ярик\GitHub\test_DataBase\test_DataBase\bin\Debug\test_DataBase.exe
+D:\Для работы\! Ярик\GitHub\test_DataBase\test_DataBase\bin\Debug\test_DataBase.pdb
+D:\Для работы\! Ярик\GitHub\test_DataBase\test_DataBase\obj\Debug\test_DataBase.csprojAssemblyReference.cache
+D:\Для работы\! Ярик\GitHub\test_DataBase\test_DataBase\obj\Debug\test_DataBase.Form1.resources
+D:\Для работы\! Ярик\GitHub\test_DataBase\test_DataBase\obj\Debug\test_DataBase.Properties.Resources.resources
+D:\Для работы\! Ярик\GitHub\test_DataBase\test_DataBase\obj\Debug\test_DataBase.csproj.GenerateResource.cache
+D:\Для работы\! Ярик\GitHub\test_DataBase\test_DataBase\obj\Debug\test_DataBase.csproj.CoreCompileInputs.cache
+D:\Для работы\! Ярик\GitHub\test_DataBase\test_DataBase\obj\Debug\test_DataBase.exe
+D:\Для работы\! Ярик\GitHub\test_DataBase\test_DataBase\obj\Debug\test_DataBase.pdb
